@@ -99,3 +99,6 @@ The performance evaluation focused on measuring the speedup achieved by our cust
 While recognizing that ultimate performance does not yet match highly tuned, platform-specific libraries (like OpenBLAS), our custom C++ implementation achieved a significant performance gain.
 
 ![Results](.github/assets/results.png)
+
+## Note on Commit History:
+This project was developed as part of a university assignment. The development took place in a private repository to maintain academic integrity. Consequently, the full version history is not visible here, and the project appears as a single initial commit.
